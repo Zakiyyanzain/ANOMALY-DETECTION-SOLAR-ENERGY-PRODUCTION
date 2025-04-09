@@ -1,1 +1,1 @@
-# ANOMALY-DETECTION-SOLAR-ENERGY-PRODUCTION
+# Anomaly-Detection-Solar-Energy-Production
